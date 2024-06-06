@@ -4,19 +4,19 @@
     "url": "https://chatbot.agi.zjuici.com",
     "icon": "https://icons.duckduckgo.com/ip3/chatbot.agi.zjuici.com.ico",
     "slug": "chatbot",
-    "status": "down",
-    "uptime": "17.46%",
-    "uptimeDay": "17.46%",
-    "uptimeWeek": "17.46%",
-    "uptimeMonth": "17.46%",
-    "uptimeYear": "17.46%",
-    "time": 925,
-    "timeDay": 925,
-    "timeWeek": 925,
-    "timeMonth": 925,
-    "timeYear": 925,
+    "status": "up",
+    "uptime": "1.83%",
+    "uptimeDay": "1.83%",
+    "uptimeWeek": "1.83%",
+    "uptimeMonth": "1.83%",
+    "uptimeYear": "1.83%",
+    "time": 957,
+    "timeDay": 957,
+    "timeWeek": 957,
+    "timeMonth": 957,
+    "timeYear": 957,
     "dailyMinutesDown": {
-      "2024-06-06": 0
+      "2024-06-06": 10
     }
   }
 ]
