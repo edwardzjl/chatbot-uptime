@@ -10,11 +10,11 @@
     "uptimeWeek": "99.81%",
     "uptimeMonth": "95.24%",
     "uptimeYear": "95.24%",
-    "time": 970,
-    "timeDay": 943,
-    "timeWeek": 980,
-    "timeMonth": 970,
-    "timeYear": 970,
+    "time": 958,
+    "timeDay": 870,
+    "timeWeek": 956,
+    "timeMonth": 958,
+    "timeYear": 958,
     "dailyMinutesDown": {
       "2024-06-13": 19,
       "2024-06-12": 129,
@@ -22,5 +22,23 @@
       "2024-06-07": 163,
       "2024-06-06": 10
     }
+  },
+  {
+    "name": "Pybot",
+    "url": "https://pybot.agi.zjuici.com",
+    "icon": "https://icons.duckduckgo.com/ip3/pybot.agi.zjuici.com.ico",
+    "slug": "pybot",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 695,
+    "timeDay": 695,
+    "timeWeek": 695,
+    "timeMonth": 695,
+    "timeYear": 695,
+    "dailyMinutesDown": {}
   }
 ]
