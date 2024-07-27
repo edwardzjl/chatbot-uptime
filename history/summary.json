@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/chatbot.agi.zjuici.com.ico",
     "slug": "chatbot",
     "status": "up",
-    "uptime": "98.79%",
+    "uptime": "98.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "98.79%",
+    "uptimeYear": "98.80%",
     "time": 1468,
     "timeDay": 1250,
     "timeWeek": 968,
@@ -29,7 +29,7 @@
     "url": "https://pybot.agi.zjuici.com",
     "icon": "https://icons.duckduckgo.com/ip3/pybot.agi.zjuici.com.ico",
     "slug": "pybot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -41,6 +41,7 @@
     "timeMonth": 985,
     "timeYear": 961,
     "dailyMinutesDown": {
+      "2024-07-27": 0,
       "2024-06-28": 15
     }
   }
