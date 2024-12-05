@@ -8,11 +8,6 @@ sites:
     expectedStatusCodes:
       - 200
       - 403
-  - name: Pybot
-    url: https://pybot.agi.zjuici.com
-    expectedStatusCodes:
-      - 200
-      - 403
 
 assignees:
   - edwardzjl
