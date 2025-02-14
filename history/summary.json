@@ -4,7 +4,7 @@
     "url": "https://chatbot.agi.zjuici.com",
     "icon": "https://icons.duckduckgo.com/ip3/chatbot.agi.zjuici.com.ico",
     "slug": "chatbot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1028,
     "timeYear": 1223,
     "dailyMinutesDown": {
+      "2025-02-14": 0,
       "2024-12-04": 21,
       "2024-11-27": 24,
       "2024-11-14": 23,
